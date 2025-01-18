@@ -12,7 +12,7 @@ screen = pygame.display.set_mode((screen_width, screen_height))
 pygame.display.set_caption("Птичка на проводах")
 
 # Загрузка изображения
-background_image = pygame.image.load('picPython.JPG')
+background_image = pygame.image.load("picPython.JPG")
 
 # Основной цикл игры
 running = True
